@@ -29,4 +29,4 @@ Se a carga do servidor estiver saudável ($1.0$), o custo final reflete purament
 ### Passos para Execução Local
 1. Clone ou baixe o arquivo de código fonte do projeto.
 2. Abra o seu terminal na pasta onde o arquivo se encontra.
-3. Execute o seguinte comando:
+3. Execute o seguinte comando: dart run main.dart
