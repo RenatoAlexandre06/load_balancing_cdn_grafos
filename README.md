@@ -18,7 +18,7 @@ Imagine a equipe de engenharia de uma grande CDN (como AWS ou Cloudflare) gerenc
 Se a carga do servidor estiver saudável ($1.0$), o custo final reflete puramente a latência física. Caso o servidor esteja severamente sobrecarregado ($4.5$), o custo calculado dispara, forçando o motor do Load Balancer a escolher um caminho alternativo mais eficiente para o usuário.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem:** Dart 3.x
+- **Linguagem:** Dart 3.11.1
 - **Paradigma:** Orientação a Objetos (OO) e Algoritmos Adaptativos de Grafos
 
 ## 📋 Como Executar o Projeto
